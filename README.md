@@ -1,6 +1,10 @@
 # PremBot
 A new Discord Selfbot 2023!
 
+Need early access on updates?
+
+Come join the discord!: https://discord.gg/YgUpdVHKqF
+
 Installation:
 
 - Quick and Simple, all you have to do is put your discord token in the token.txt and run the PremBot.exe!#
